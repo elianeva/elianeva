@@ -1,4 +1,4 @@
-### Hola! Este sitio estará en codigo abierto para videojuegos creados en c++ 👋
+### Hi! Hope the codes are helpful 👋
 
 <!--
 **elianeva/elianeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
